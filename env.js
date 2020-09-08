@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: 'V2Board is best',
   // API
-  host: '',
+  host: 'v.yuque.in',
   // 主题
   theme: {
     sidebar: 'light',
